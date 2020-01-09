@@ -1,0 +1,5 @@
+<root>
+    <item name='android.widget.RadioGroup'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
